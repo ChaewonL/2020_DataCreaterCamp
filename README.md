@@ -9,7 +9,8 @@
 |3 |분류| <a target="_blank" href="https://drive.google.com/file/d/1G_1BS84KuqqDjCBxAZv5VK0ZjWjp5Cz3/view?usp=sharing"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />구글 코랩 바로가기</a>|
 |4 |군집화 | <a target="_blank" href="https://drive.google.com/file/d/114WTgfoDRNBn3Q6bhRL_qrjn0p_2WucK/view?usp=sharing"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />구글 코랩 바로가기</a>|
 
-
+## YouTube
+https://youtu.be/oY73HUC53A0
 
 ## Contact
 류회성: hoesungryu@korea.ac.kr
